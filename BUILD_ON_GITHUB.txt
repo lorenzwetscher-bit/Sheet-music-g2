@@ -1,0 +1,9 @@
+OHNE NODE AUF DEM PC – GITHUB ACTIONS
+
+1. Neuen leeren GitHub-Repository erstellen.
+2. Den gesamten Inhalt dieses Ordners hochladen (inkl. .github).
+3. GitHub -> Actions -> "Build Even Hub EHPK" öffnen.
+4. Falls der Lauf nicht automatisch startet: "Run workflow" klicken.
+5. Nach erfolgreichem Lauf unten bei Artifacts "sheet-music-g2-ehpk" herunterladen.
+6. ZIP entpacken: darin liegt sheet-music-g2.ehpk.
+7. Diese Datei im Even Hub hochladen.
